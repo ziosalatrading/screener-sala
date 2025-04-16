@@ -1,5 +1,0 @@
-streamlit
-yfinance
-pandas
-gspread
-oauth2client
